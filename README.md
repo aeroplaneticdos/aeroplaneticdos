@@ -1,4 +1,4 @@
-Just some guy who touches a line of code every 50 years
+Casual beginner developer learning how to handle backend development
 
 <!---
 aquaticdosDev/aquaticdosDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
